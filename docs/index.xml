@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>שלום</title>
-    <link>https://www.mrnice.dev/2fa-org-il/</link>
+    <link>http://www.2fa.org.il/</link>
     <description>Recent content on שלום</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>he-il</language><atom:link href="https://www.mrnice.dev/2fa-org-il/index.xml" rel="self" type="application/rss+xml" />
+    <language>he-il</language><atom:link href="http://www.2fa.org.il/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>אימות דו-שלבי אורג איי אל</title>
-      <link>https://www.mrnice.dev/2fa-org-il/home/</link>
+      <link>http://www.2fa.org.il/home/</link>
       <pubDate>Thu, 08 Apr 2021 13:56:55 +0300</pubDate>
       
-      <guid>https://www.mrnice.dev/2fa-org-il/home/</guid>
+      <guid>http://www.2fa.org.il/home/</guid>
       <description>שלום וכו&#39;</description>
     </item>
     

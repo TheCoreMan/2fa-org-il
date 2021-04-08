@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on שלום</title>
-    <link>https://www.mrnice.dev/2fa-org-il/series/</link>
+    <link>http://www.2fa.org.il/series/</link>
     <description>Recent content in Series on שלום</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>he-il</language><atom:link href="https://www.mrnice.dev/2fa-org-il/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>he-il</language><atom:link href="http://www.2fa.org.il/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

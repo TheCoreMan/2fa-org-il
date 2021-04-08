@@ -1,4 +1,4 @@
-baseURL                          = "https://www.mrnice.dev/2fa-org-il/"   # Your domain name. Must end with "/"
+baseURL                          = "http://www.2fa.org.il/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "he"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
