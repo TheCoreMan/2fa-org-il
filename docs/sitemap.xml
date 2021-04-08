@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/home/</loc>
+    <loc>https://www.mrnice.dev/2fa-org-il/home/</loc>
     <lastmod>2021-04-08T13:56:55+03:00</lastmod>
   </url><url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://www.mrnice.dev/2fa-org-il/series/</loc>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://www.mrnice.dev/2fa-org-il/tags/</loc>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>https://www.mrnice.dev/2fa-org-il/</loc>
   </url>
 </urlset>
